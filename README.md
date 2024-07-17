@@ -1,4 +1,4 @@
-Invoice Processing with Scala and MySQL
+# Invoice Processing with Scala and MySQL
 
 Welcome to the Invoice Processing repository! This project demonstrates how to read invoice data from a text file and insert it into a MySQL database using Scala. The main objective is to illustrate efficient data processing and database interaction techniques, including the use of JDBC and prepared statements.
 Project Overview
